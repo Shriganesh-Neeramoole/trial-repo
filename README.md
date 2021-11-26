@@ -1,1 +1,1 @@
-This is a trial repository to learg how to use github
+This is a trial repository to learn how to use github
